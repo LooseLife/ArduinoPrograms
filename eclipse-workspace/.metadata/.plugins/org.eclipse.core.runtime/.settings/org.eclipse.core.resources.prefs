@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding=UTF-8
+pathvariable.ArduinoLibPath=D\:/Program Files (x86)/Arduino/libraries
+pathvariable.CoreArduinoPath=D\:/Program Files (x86)/Arduino/hardware/arduino/cores
+pathvariable.PinArduinoPath=D\:/Program Files (x86)/Arduino/hardware/arduino/variants
+pathvariable.PivateLibPath=D\:/OneDrive/Arduino/eclipse-workspace
+refresh.lightweight.enabled=true
+version=1

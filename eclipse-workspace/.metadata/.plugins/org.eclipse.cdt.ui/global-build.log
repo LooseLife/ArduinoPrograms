@@ -1,0 +1,10 @@
+18:21:09 **** ビルド of configuration Release for project testArduino ****
+make all 
+Building file: ../testArduino.cpp
+Invoking: AVR C++ Compiler
+make: Interrupt/Exception caught (code = 0xc00000fd, addr = 0x4217b3)
+18:41:21 **** ビルド of configuration Release for project eclipseArduinoTest ****
+make all 
+Building file: ../eclipseArduinoTest.cpp
+Invoking: AVR C++ Compiler
+make: Interrupt/Exception caught (code = 0xc00000fd, addr = 0x4217b3)
