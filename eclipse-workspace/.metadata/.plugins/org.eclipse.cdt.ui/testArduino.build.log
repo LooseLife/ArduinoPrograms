@@ -1,8 +1,0 @@
-18:21:09 **** ƒrƒ‹ƒh of configuration Release for project testArduino ****
-make all 
-Building file: ../testArduino.cpp
-Invoking: AVR C++ Compiler
-make: Interrupt/Exception caught (code = 0xc00000fd, addr = 0x4217b3)
-
-18:21:10 Build Finished (took 1s.451ms)
-
